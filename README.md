@@ -8,5 +8,6 @@
 
 - **Python 3.x**
 - **SQLite**: Banco de dados para persistência de dados.
+- **Tkinter**: Tkinter é a biblioteca padrão do Python para criar interfaces gráficas (GUI)
 
 
